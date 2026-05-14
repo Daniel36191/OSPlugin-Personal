@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
     "thumbnail": "store/Thumbnail.png",
-    "id": "com_Daniel36191_OSPlugin",
-    "name": "OS",
+    "id": "com_daniel_OSPlugin",
+    "name": "OS-Custom",
     "descriptions": {
         "en_US": "Control your operating system."
     },
